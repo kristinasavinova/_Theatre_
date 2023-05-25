@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Theatre", "Theatre.csproj", "{63991B7D-B43A-4D1C-8C11-622D3AE489EA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_theatre", "..\Setup_theatre\Setup_theatre.vdproj", "{0078E0E8-4D3E-402E-A263-123AC9CDAAB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63991B7D-B43A-4D1C-8C11-622D3AE489EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63991B7D-B43A-4D1C-8C11-622D3AE489EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63991B7D-B43A-4D1C-8C11-622D3AE489EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63991B7D-B43A-4D1C-8C11-622D3AE489EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0078E0E8-4D3E-402E-A263-123AC9CDAAB2}.Debug|Any CPU.ActiveCfg = Debug
+		{0078E0E8-4D3E-402E-A263-123AC9CDAAB2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1393BACE-F9FF-46A4-93BC-1ADEC39089C5}
+	EndGlobalSection
+EndGlobal
