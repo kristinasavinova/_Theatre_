@@ -21,7 +21,7 @@ namespace Theatre
             tmr.Tick += delegate {                
                 this.Close();
             };            
-            tmr.Interval = (int)TimeSpan.FromSeconds(4).TotalMilliseconds;
+            tmr.Interval = (int)TimeSpan.FromSeconds(8).TotalMilliseconds;
             
             tmr.Start();
             
